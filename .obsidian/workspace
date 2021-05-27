@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "1c59c1fe6e0b5bdd",
+    "type": "split",
+    "children": [
+      {
+        "id": "27068c88b58587b9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Reading List.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f57dd8d9d1d0a8d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "207ce6df06b86c4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83547fbc3f298c50",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "87183e108b52eeee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Blog",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d7052770bcccde62",
+    "type": "split",
+    "children": [
+      {
+        "id": "a491fcb9296af19c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "504a6883ba545c30",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Reading List.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "27068c88b58587b9",
+  "lastOpenFiles": [
+    "Reading List.md",
+    "Everybody Lies.md",
+    "Investor Link.md",
+    "SEC Data Collection.md",
+    "ISEF 2021-2022.md",
+    "Main.md",
+    "Blog.md",
+    "Learning Summer 2021.md",
+    "CV.md",
+    "CS Learning Summer 2021.md"
+  ]
+}
