@@ -1,10 +1,8 @@
-```
 ---
 layout: default
 title: 404
 nav_exclude: true
 ---
-```
 # Everybody Lies
 
 #### In Progress Thoughts

@@ -1,11 +1,10 @@
-```
 ---
 layout: default
 title: Reading List
 parent: Blog
 nav_order: 2
 ---
-```
+
 # Reading List
 
 ### Completed/In Progress

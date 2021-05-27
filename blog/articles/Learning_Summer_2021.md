@@ -1,10 +1,8 @@
-```
 ---
 layout: default
 title: 404
 nav_exclude: true
 ---
-```
 # Learning Summer 2021
 ## Math Summer 2021
 ### Math Course Selection Thought Process
