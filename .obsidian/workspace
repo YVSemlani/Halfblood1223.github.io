@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Everybody_Lies.md",
+            "file": "index.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Everybody_Lies.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,13 +88,13 @@
   },
   "active": "27068c88b58587b9",
   "lastOpenFiles": [
+    "index.md",
     "Everybody_Lies.md",
     "images/6.00.1x_cert.png",
     "SEC_Data_Collection.md",
     "ISEF_2021-2022.md",
     "Learning_Summer_2021.md",
     "Investor_Link.md",
-    "index.md",
     "CV.md",
     "Reading_List.md",
     "Blog.md"
