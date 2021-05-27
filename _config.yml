@@ -1,9 +1,3 @@
 markdown: GFM
-baseurl: ""
-url: "https://halfblood1223.github.io"
-theme: "rohanchandra/type-theme"
-  title: "Type Theme"
-  footer_text: "Created by Yash Semlani"
-  email_address: "yashveersemlan@gmail.com"
-  search: true
+theme: rohanchandra/type-theme
   	
