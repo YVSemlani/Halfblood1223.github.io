@@ -19,18 +19,12 @@ just_the_docs:
     blog:
       # Give the collection a name
       name: Blog
-      # Exclude the collection from the navigation
-      # Supports true or false (default)
-      nav_exclude: true
       # Exclude the collection from the search
       # Supports true or false (default)
       search_exclude: false
     cv:
       # Give the collection a name
       name: CV
-      # Exclude the collection from the navigation
-      # Supports true or false (default)
-      nav_exclude: true
       # Exclude the collection from the search
       # Supports true or false (default)
       search_exclude: false
