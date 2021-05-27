@@ -4,8 +4,8 @@ This is the blog page of my personal website. Here I detail my thoughts, and giv
 
 ## Ongoing
 ***
-- [Reading_List](Reading_List.md)
+- [Reading List](Reading_List.md)
 
 ## 2021
 ***
-- [Learning_Summer_2021](Learning_Summer_2021.md)
+- [Learning Summer 2021](Learning_Summer_2021.md)
