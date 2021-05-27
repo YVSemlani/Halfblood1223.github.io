@@ -1,7 +1,7 @@
 markdown: GFM
 baseurl: ""
 url: "https://halfblood1223.github.io"
-theme:
+theme: rohanchandra/type-theme
   title: Type Theme
   avatar:
   gravatar:
