@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "assets/css/_sass/variables.md",
+            "file": "blog/articles/Learning_Summer_2021.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/css/_sass/variables.md",
+                "file": "blog/articles/Learning_Summer_2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "27068c88b58587b9",
   "lastOpenFiles": [
+    "blog/Learning_Summer_2021.md",
+    "blog/Reading_List.md",
     "Untitled.md",
     "index.md",
     "Everybody_Lies.md",
@@ -95,8 +97,6 @@
     "SEC_Data_Collection.md",
     "ISEF_2021-2022.md",
     "Learning_Summer_2021.md",
-    "Investor_Link.md",
-    "CV.md",
-    "Reading_List.md"
+    "Investor_Link.md"
   ]
 }

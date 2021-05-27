@@ -7,8 +7,8 @@
 
 ### Projects
 ###### Completed
-- [Investor Link](Investor_Link.md)
-- [SEC Data Collection](SEC_Data_Collection.md)
+- [Investor Link](projects/Investor_Link.md)
+- [SEC Data Collection](projects/SEC_Data_Collection.md)
 
 ###### In Progress
-- [ISEF 2021-2022](ISEF_2021-2022.md)
+- [ISEF 2021-2022](projects/ISEF_2021-2022.md)
