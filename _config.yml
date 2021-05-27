@@ -1,1 +1,8 @@
 markdown: GFM
+theme:
+  title: Type Theme
+  avatar:
+  gravatar:
+  footer_text: Created by Yash Semlani
+  email_address: yashveersemlan@gmail.com
+  	
