@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "blog/articles/Learning_Summer_2021.md",
+            "file": "index.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/articles/Learning_Summer_2021.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,10 @@
   },
   "active": "27068c88b58587b9",
   "lastOpenFiles": [
+    "index.md",
     "blog/Learning_Summer_2021.md",
     "blog/Reading_List.md",
     "Untitled.md",
-    "index.md",
     "Everybody_Lies.md",
     "images/6.00.1x_cert.png",
     "SEC_Data_Collection.md",

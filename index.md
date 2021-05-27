@@ -6,8 +6,8 @@
  
  ***
  
- - **[cv/CV](cv/CV.md)**
- - **[blog/Blog](blog/Blog.md)**
+ - **[CV](cv/CV.md)**
+ - **[Blog](blog/Blog.md)**
 
 ## Inactive Pages
 ***
