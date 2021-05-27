@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Reading List.md",
+            "file": "Investor Link.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading List.md",
+                "file": "Investor Link.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "27068c88b58587b9",
   "lastOpenFiles": [
+    "Investor Link.md",
+    "CV.md",
+    "SEC Data Collection.md",
+    "Blog.md",
     "Reading List.md",
     "Everybody Lies.md",
-    "Investor Link.md",
-    "SEC Data Collection.md",
     "ISEF 2021-2022.md",
     "Main.md",
-    "Blog.md",
     "Learning Summer 2021.md",
-    "CV.md",
     "CS Learning Summer 2021.md"
   ]
 }
