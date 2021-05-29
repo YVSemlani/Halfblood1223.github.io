@@ -3,7 +3,6 @@ layout: default
 title: Reading List
 parent: Blog
 nav_order: 2
-has_children: true
 ---
 # Reading List
 

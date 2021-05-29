@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Everybody Lies
-parent: Reading List
-nav_order: 2
+title: 404
+nav_exclude: true
 ---
 # Everybody Lies
 
