@@ -11,4 +11,4 @@ This project was designed to connect investors with founders. Created with Djang
 > Tutorial Link: Not Available At The Moment
 
 ### Preview
-![Investorlink](../images/investorlink.png)
+![Investorlink](../../images/investorlink.png)
