@@ -4,9 +4,9 @@
  
  ## Contact
  ***
-[Linkedin](http://example.com/){: .btn }
-[Github](http://google.com/){: .btn }
-[Email](yashveersemlan@gmail.com){: .btn }
+[Linkedin](http://example.com/){: .btn } <br>
+[Github](http://google.com/){: .btn } <br>
+[Email](yashveersemlan@gmail.com){: .btn } <br>
  
  ## Active Pages
  
