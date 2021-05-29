@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "cv/projects/Investor_Link.md",
+            "file": "blog/Reading_List.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cv/projects/Investor_Link.md",
+                "file": "blog/Reading_List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "27068c88b58587b9",
   "lastOpenFiles": [
+    "blog/Reading_List.md",
+    "Blog.md",
+    "CV.md",
+    "Untitled.md",
     "cv/projects/Investor_Link.md",
     "cv/projects/ISEF_2021-2022.md",
     "cv/projects/SEC_Data_Collection.md",
     "index.md",
-    "CV.md",
     "blog/readinglist/Everybody_Lies.md",
-    "blog/articles/Learning_Summer_2021.md",
-    "blog/Reading_List.md",
-    "Blog.md",
-    "cv/CV.md"
+    "blog/articles/Learning_Summer_2021.md"
   ]
 }
