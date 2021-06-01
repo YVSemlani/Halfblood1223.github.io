@@ -4,10 +4,11 @@
  
  ## Contact
  ***
-[Linkedin](http://example.com/){: .btn } <br>
-[Github](http://google.com/){: .btn } <br>
-[Email](yashveersemlan@gmail.com){: .btn } <br>
- 
+<button name="button" onclick="https://www.linkedin.com/in/yash-semlani-38716b157/">Linkedin</button>
+
+<button name="button" onclick="https://github.com/Halfblood1223/">Github</button> 
+
+<button name="button" onclick="mailto:yashveersemlan@gmail.com">Email Me</button> 
  ## Active Pages
  
  ***
