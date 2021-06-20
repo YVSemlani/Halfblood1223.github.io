@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CV.md",
+            "file": "Blog.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CV.md",
+                "file": "Blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "27068c88b58587b9",
   "lastOpenFiles": [
-    "CV.md",
-    "cv/projects/SEC_Data_Collection.md",
-    "cv/projects/Investor_Link.md",
-    "cv/projects/ISEF_2021-2022.md",
-    "index.md",
-    "contact.md",
-    "blog/articles/Learning_Summer_2021.md",
-    "blog/readinglist/Everybody_Lies.md",
+    "Blog.md",
     "blog/Reading_List.md",
-    "yashveersemlan@gmail.com.md"
+    "blog/readinglist/The_Prince.md",
+    "blog/readinglist/Everybody_Lies.md",
+    "index.md",
+    "CV.md",
+    "images/investorlink.png",
+    "images/6.00.1x_cert.png",
+    "cv/projects/SEC_Data_Collection.md",
+    "cv/projects/Investor_Link.md"
   ]
 }
