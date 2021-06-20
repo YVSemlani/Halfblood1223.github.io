@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Blog.md",
+            "file": "blog/Reading_List.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog.md",
+                "file": "blog/Reading_List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,10 @@
   },
   "active": "27068c88b58587b9",
   "lastOpenFiles": [
-    "Blog.md",
     "blog/Reading_List.md",
-    "blog/readinglist/The_Prince.md",
     "blog/readinglist/Everybody_Lies.md",
+    "Blog.md",
+    "blog/readinglist/The_Prince.md",
     "index.md",
     "CV.md",
     "images/investorlink.png",
