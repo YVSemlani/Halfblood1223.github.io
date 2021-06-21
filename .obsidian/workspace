@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "blog/Reading_List.md",
+            "file": "blog/articles/Factors_For_Effective_Reading.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/Reading_List.md",
+                "file": "blog/articles/Factors_For_Effective_Reading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "27068c88b58587b9",
   "lastOpenFiles": [
+    "blog/articles/Factors_For_Effective_Reading.md",
     "blog/Reading_List.md",
-    "blog/readinglist/Everybody_Lies.md",
-    "Blog.md",
-    "blog/readinglist/The_Prince.md",
-    "index.md",
     "CV.md",
+    "Blog.md",
+    "index.md",
     "images/investorlink.png",
-    "images/6.00.1x_cert.png",
+    "cv/projects/Investor_Link.md",
     "cv/projects/SEC_Data_Collection.md",
-    "cv/projects/Investor_Link.md"
+    "cv/projects/ISEF_2021-2022.md",
+    "blog/readinglist/The_Prince.md"
   ]
 }
