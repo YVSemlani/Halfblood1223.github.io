@@ -4,11 +4,11 @@
  
  ## Contact
  ***
- [Linkedin]("https://www.linkedin.com/in/yash-semlani-38716b157/")
+ [Linkedin](https://www.linkedin.com/in/yash-semlani-38716b157/)
 
-[Github]("https://github.com/Halfblood1223/")
+[Github](https://github.com/Halfblood1223/)
 
-[Email]("mailto:yashveersemlan@gmail.com")
+[Email](mailto:yashveersemlan@gmail.com)
  ## Active Pages
  
  ***
