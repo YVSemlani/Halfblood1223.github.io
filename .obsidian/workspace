@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "blog/articles/Factors_For_Effective_Reading.md",
+            "file": "Blog.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/articles/Factors_For_Effective_Reading.md",
+                "file": "Blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,10 @@
   },
   "active": "27068c88b58587b9",
   "lastOpenFiles": [
+    "Blog.md",
     "blog/articles/Factors_For_Effective_Reading.md",
     "blog/Reading_List.md",
     "CV.md",
-    "Blog.md",
     "index.md",
     "images/investorlink.png",
     "cv/projects/Investor_Link.md",
