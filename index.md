@@ -4,12 +4,11 @@
  
  ## Contact
  ***
- [Link button](http://example.com/){: .btn }
-<button name="button" onclick="https://www.linkedin.com/in/yash-semlani-38716b157/">Linkedin</button>
+ [Linkedin]("https://www.linkedin.com/in/yash-semlani-38716b157/")
 
-<button name="button" onclick="https://github.com/Halfblood1223/">Github</button> 
+[Github]("https://github.com/Halfblood1223/")
 
-<button name="button" onclick="mailto:yashveersemlan@gmail.com">Email Me</button> 
+[Email]("mailto:yashveersemlan@gmail.com")
  ## Active Pages
  
  ***
