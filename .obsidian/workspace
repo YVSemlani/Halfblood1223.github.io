@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Blog.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "27068c88b58587b9",
   "lastOpenFiles": [
-    "Untitled.md",
-    "blog/articles/Untitled.md",
-    "blog/articles/Learning_Summer_2021.md",
-    "index.md",
-    "cv/projects/ISEF_2021-2022.md",
-    "cv/projects/SEC_Data_Collection.md",
-    "blog/Reading_List.md",
     "Blog.md",
     "CV.md",
-    "blog/articles/Factors_For_Effective_Reading.md"
+    "Untitled.md",
+    "README.md",
+    "index.md",
+    "blog/articles/Untitled.md",
+    "blog/articles/Learning_Summer_2021.md",
+    "cv/projects/ISEF_2021-2022.md",
+    "cv/projects/SEC_Data_Collection.md",
+    "blog/Reading_List.md"
   ]
 }
