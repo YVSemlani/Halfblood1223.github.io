@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Blog.md",
+            "file": "inprogress/NYC_Trip_2021.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog.md",
+                "file": "inprogress/NYC_Trip_2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "27068c88b58587b9",
   "lastOpenFiles": [
+    "Untitled.md",
+    "inprogress/NYC_Trip_2021.md",
     "Blog.md",
     "CV.md",
-    "Untitled.md",
     "README.md",
     "index.md",
     "blog/articles/Untitled.md",
     "blog/articles/Learning_Summer_2021.md",
     "cv/projects/ISEF_2021-2022.md",
-    "cv/projects/SEC_Data_Collection.md",
-    "blog/Reading_List.md"
+    "cv/projects/SEC_Data_Collection.md"
   ]
 }
