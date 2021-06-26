@@ -6,15 +6,15 @@
 - **Put in the "inprogress" folder if not complete** | **Ignore that folder and other backend folders using gitignore**
 
 ## Pros
-Very easy to use and low setup
-Doesn't require any fancy setup
-Troubleshooting is simple
-Writing can be done in markdown
+Very easy to use and low setup \n
+Doesn't require any fancy setup \n
+Troubleshooting is simple \n
+Writing can be done in markdown \n
 
 ## Cons
-Not very customizable
-No database - Leads to issues such as having to leave the entire images folder as user facing
-Have to clear cache to see new versions of the site
+Not very customizable \n
+No database - Leads to issues such as having to leave the entire images folder as user facing \n
+Have to clear cache to see new versions of the site \n
 
 ## Conclusion
 Overall works for my needs. Very simple to write on and takes the effort out of it.
