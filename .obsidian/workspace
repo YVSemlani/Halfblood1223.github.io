@@ -7,11 +7,8 @@
         "id": "27068c88b58587b9",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "index.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +84,15 @@
   },
   "active": "27068c88b58587b9",
   "lastOpenFiles": [
+    "blog/articles/Untitled.md",
+    "blog/articles/Learning_Summer_2021.md",
     "index.md",
     "cv/projects/ISEF_2021-2022.md",
     "cv/projects/SEC_Data_Collection.md",
-    "blog/articles/Learning_Summer_2021.md",
     "blog/Reading_List.md",
     "Blog.md",
     "CV.md",
     "blog/articles/Factors_For_Effective_Reading.md",
-    "images/investorlink.png",
-    "cv/projects/Investor_Link.md"
+    "images/investorlink.png"
   ]
 }
