@@ -1,3 +1,8 @@
+---
+layout: default
+title: 404
+nav_exclude: true
+---
 # NYC Trip 2021
 ![nycheader](../../images/nycheader.jpg)
 ## Categories
