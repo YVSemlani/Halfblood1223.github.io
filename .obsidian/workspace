@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "27068c88b58587b9",
+        "id": "0870f3903556fb0a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "inprogress/NYC_Trip_2021.md",
-            "mode": "source"
+            "file": "blog/articles/NYC_Trip_2021.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,13 +39,21 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Blog",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "7b43469c1e0f5361",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
             }
           }
         ]
@@ -68,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inprogress/NYC_Trip_2021.md",
+                "file": "blog/articles/NYC_Trip_2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +94,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "27068c88b58587b9",
+  "active": "0870f3903556fb0a",
   "lastOpenFiles": [
-    "Untitled.md",
-    "inprogress/NYC_Trip_2021.md",
+    "blog/articles/NYC_Trip_2021.md",
     "Blog.md",
+    "inprogress/NYC_Trip_2021.md",
+    "notes/Rogue_Academic_Notes.md",
+    "Recording 20210702001537.webm",
+    "202107020011.md",
+    "notes/Education_for_discovery.md",
     "CV.md",
-    "README.md",
-    "index.md",
-    "blog/articles/Untitled.md",
-    "blog/articles/Learning_Summer_2021.md",
-    "cv/projects/ISEF_2021-2022.md",
-    "cv/projects/SEC_Data_Collection.md"
+    "inprogress/Untitled.md",
+    "blog/articles/Learning_Summer_2021.md"
   ]
 }
