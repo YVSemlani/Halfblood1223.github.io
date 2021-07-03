@@ -35,7 +35,7 @@ Both of these establishments have been around since my dad lived in NYC. However
 
 *Wednesday 06/23/21*
 - [Ten Ren's Tea Time](https://www.tenren.com/index.html) | Rating: 8/10 | Cuisine: Bubble Tea
-- [Joe's Pizza](http://www.joespizzanyc.com/)
+- [Joe's Pizza](http://www.joespizzanyc.com/) | Rating: 9/10 | Cuisine: Pizza
 
 Joe's definitely lived up to the hype. I went there with my dad and together we ate a full pie. Afterwards, even with the filling slices, we were able to walk for almost 2 more miles. 
 
