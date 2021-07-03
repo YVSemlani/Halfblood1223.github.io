@@ -7,7 +7,8 @@
 - [Lodging](#Lodging)
 - [Transportation](#Transportation)
 ### Food
-The food in NYC is unparalleled! With the sheer amount of amazing options available I found that my indecision was even worse than normal. However when I did decide I was almost always greeted with delicious food and amazing service. Here is the list of places I went to organized by day: <br>
+The food in NYC is unparalleled! With the sheer amount of amazing options available I found that my indecision was even worse than normal. However when I did decide I was almost always greeted with delicious food and amazing service. Here is the list of places I went to organized by day:
+
 *Saturday 06/19/21*
 - [Naya Mezze and Grill](https://www.nayarestaurants.com/) | Rating: 7/10 | Cuisine: Lebanese-Mediterranean
 - [Ferrara Bakery & Cafe](http://www.ferraranyc.com/) | Rating: 6/10 | Cuisine: Italian Pastries
@@ -62,7 +63,8 @@ One of the best diners I've ever been to. Definitely not your garden variety Den
 Some of the most convincing imitation vegetarian food I've ever had. I didn't even realize that the General Tso's chicken was vegetarian until I was told after the meal by my dad. Delicious food and a great spot to visit with vegetarian people.
 ### Museums
 My interests, as of late, have been centered around art and philosophy. Accordingly during this trip I visited two art museums as well as Strand Book Store, which is pretty close to being a museum.
-*The Met*
+
+<br>*The Met*
 Of the two art museums I went to the Met was my favorite. Roaming throughout the galleries I got to see most of the different exhibitions. My personal picks were the 1250-1800 European gallery and the Asian art section. The European gallery featured some beautiful painting that were very photorealistic and depicted interesting events. Here are some of my personal favorites from this section:
 ![meteuro1](../../images/meteuro/meteuro1.jpg)
 ![meteuro2](../../images/meteuro/meteuro2.jpg)
@@ -74,30 +76,30 @@ When I went to the Asian art gallery it began with mostly sculptures and very ol
 The Japanese Garden: 
 ![metasiangarden](../../images/metasian/metasiangarden.jpg)
 
-*The MoMA*
+<br> *The MoMA*
 The MoMA was a very interesting museum. While it wasn't nearly as extensive as the Met, it showed me much more variance within the modern art genre. However, since I'm not a fan of the modern art genre it was slightly disappointing.
 
 ### Entertainment
 The entertainment scene in NYC is unbelievable. However due to the fact that I'm 15, my options at night were limited. Despite this we were able to find amazing things to do in the city after dark. Our first outing was to the Blue Note Jazz Club where we saw Jacob Collier & Friends. This was a truly mind-blowing experience and as someone who hadn't listened to live jazz before that I was awestruck. The service was also great here. 10/10, definitely coming back when I'm in the city next. 
 
-The next outing we took was to the New York Comedy Club. The lineup here was great, we had Tom Cassidy, Akaash Singh, and Mark Pheeney among others. I had a great experience here and wouldn't hesitate to go back. The comedians were top notch and service was excellent. 
+The next outing we took was to the New York Comedy Club. The lineup here was great, we had Tom Cassidy, Akaash Singh, and Mark Feeney among others. I had a great experience here and wouldn't hesitate to go back. The comedians were top notch and service was excellent. 
 ### Lodging
-From *6/19 to 6/21* we stayed at the [Heritage Hotel]. The hotel service was good and the rooms fit the 3 of us. However, the door to the bathroom in our first room didn't lock and once we were moved into a second room the bathroom door didn't have a lock. The Heritage is good if you have multiple people traveling with you as some rooms can accommodate 3 twin beds for a good price. However this is not a luxury hotel by any means. 
+From *6/19 to 6/21* we stayed at the [Heritage Hotel](https://www.heritagehotelnyc.com/). The hotel service was good and the rooms fit the 3 of us. However, the door to the bathroom in our first room didn't lock and once we were moved into a second room the bathroom door didn't have a lock. The Heritage is good if you have multiple people traveling with you as some rooms can accommodate 3 twin beds for a good price. However this is not a luxury hotel by any means. 
 
 For the remainder of our trip we stayed with my cousin in Midtown East.
 ### Transportation
 New York, being a very compact city, is easy to traverse through a variety of means. Here are the ones that we did:
 
-*Biking*
+*Biking* <br>
 We took electric Citi bikes twice in the trip. The first time we took ebikes from Union Square all the way to 44th street. This trip was quite easy due to the ebikes we were riding however biking in traffic isn't the safest especially without bike lanes and helmets. The second time we took ebikes was from Columbus Circle/Lincoln Center. We took the bikes along the Westside Highway bike trail all the way across the Brooklyn Bridge and finally to the Brooklyn Pier. This trip took us about 105 minutes however this included significant delays in trying to find the bike on ramp that led to us almost entering the car intake ramp. 
 
 Citi's Ebikes are a very easy way to get around the city. However, it isn't the most economical at 0.18$ a minute plus a 3.50$ undocking fee. If you are looking for a leisurely tour of the city then Citi Bikes are for you.
 
-*Subway*
+*Subway* <br>
 We took the subway many times from Midtown to Canal St, Wall St, etc. These trips weren't notable and have been the cheapest method of travel in the city, next to walking.
 
-*Uber*
+*Uber* <br>
 We took Uber's for the majority of our longer distance journeys. The experience was always pleasant and drivers were very friendly. This was the most expensive travel option however it was also the most efficient. If you need to be somewhere ASAP then Uber is what you should take.
 
-*Walking*
+*Walking* <br>
 Most of our shorter trips were done by walking and we also took a longer trip from Wall St up to Houston St. This trip was excellent and we got to see the various sights along the way. If you don't need to go very far then walking is always the cheapest and best option. However if it is dark you should exercise caution especially when your off of a main road. 
