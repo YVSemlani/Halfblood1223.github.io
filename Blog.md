@@ -17,4 +17,4 @@ This is the blog page of my personal website. Here I detail my thoughts, and giv
 ***
 - [Learning Summer 2021](blog/articles/Learning_Summer_2021.md) | 5/26
 - [Thoughts on Reading Effectively](blog/articles/Factors_For_Effective_Reading.md) | 6/20
-- [NYC Trip](blog/articles/NYC_Trip_2021.md)
+- [NYC Trip](blog/articles/NYC_Trip_2021.md) | 7/2
