@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "blog/articles/NYC_Trip_2021.md",
-            "mode": "preview"
+            "file": "Blog.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/articles/NYC_Trip_2021.md",
+                "file": "Blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,8 +96,8 @@
   },
   "active": "0870f3903556fb0a",
   "lastOpenFiles": [
-    "blog/articles/NYC_Trip_2021.md",
     "Blog.md",
+    "blog/articles/NYC_Trip_2021.md",
     "inprogress/NYC_Trip_2021.md",
     "notes/Rogue_Academic_Notes.md",
     "Recording 20210702001537.webm",
