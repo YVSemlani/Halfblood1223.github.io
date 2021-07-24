@@ -13,8 +13,6 @@ Aptitude Test: MIT Linear Algebra Final Exam Score of 70+
 
 Optional Aptitude Test (Used for Refresher): Post-Calc Final Exam Score of 85+ (Need to determine if all materials covered will be included or if more learning is required)
 
-***Results: Not Completed***
-
 > [Course Website](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 
 #### CS 188 - Berkeley
