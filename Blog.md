@@ -12,7 +12,7 @@ This is the blog page of my personal website. Here I detail my thoughts, and giv
 #### Ongoing
 ***
 - [Reading List](blog/Reading_List.md)
-- [Desired_Course_Catalog](Desired_Course_Catalog.md)
+- [Desired_Course_Catalog](blog/articles/Desired_Course_Catalog.md)
 
 #### 2021
 ***

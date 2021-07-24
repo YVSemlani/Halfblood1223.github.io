@@ -77,5 +77,5 @@ Dropped because I don't think an introductory course will give me a good value f
 ### Certificates
 ##### Mit 6.00.1x 
 
-![6.00.1x_cert](images/6.00.1x_cert.png)
+![6.00.1x_cert](../../images/6.00.1x_cert.png)
 
