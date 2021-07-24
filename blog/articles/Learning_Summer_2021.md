@@ -12,7 +12,22 @@ Courses were selected in order to support my CS learning path. To take CS 189 ne
 Methods: Khan Academy. Dates: 6/1 - 6/15
 Aptitude Test: Pre Calculus AB Final Exam Score of 85+
 
-***Results: Not Completed***
+*Units Completed*
+- Trigonometry | Unit Test Score : 89% or 8/9 questions
+- Complex Numbers | Unit Test Score : 67% or 8/12 questions
+- Composite Numbers | Unit Test Not Taken
+
+*Units Left*
+- Matrices
+- Conics
+- Probability and Combinatorics
+- Series
+
+
+*Current Unit*
+- Vectors
+
+***Results: In Progress***
     
 #### Calculus
 Methods: MIT Open Courseware + Naveed Tutoring. Dates: 6/15 - 7/30 at least
