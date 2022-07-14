@@ -1,4 +1,4 @@
+theme: minima
 markdown: GFM
 title: "Yash Semlani"
-remote_theme: pmarsceill/just-the-docs
 search_enabled: true
