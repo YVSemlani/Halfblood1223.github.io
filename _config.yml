@@ -2,3 +2,6 @@ theme: minima
 markdown: GFM
 title: "Yash Semlani"
 search_enabled: true
+header_pages:
+  - Blog.md
+  - CV.md
