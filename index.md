@@ -1,4 +1,4 @@
-## Hi I'm Yash Semlani an aspiring student researcher!
+### Hi I'm Yash Semlani an aspiring student researcher!
 
 I created this site at the tail end of my freshman year for the purpose of documenting my activities in the future personally and professionally.
 
