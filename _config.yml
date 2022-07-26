@@ -5,4 +5,5 @@ search_enabled: true
 header_pages:
   - Blog.md
   - CV.md
-google_analytics: G-MH8S97J3C7
+google_analytics: UA-235645155-1
+
