@@ -1,4 +1,6 @@
-# CV
+---
+title: CV
+---
 
 ### Education
 
