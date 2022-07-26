@@ -1,9 +1,9 @@
 theme: minima
 markdown: GFM
 title: "Yash Semlani"
+google_analytics: UA-235645155-1
 search_enabled: true
 header_pages:
   - Blog.md
   - CV.md
-google_analytics: UA-235645155-1
 
